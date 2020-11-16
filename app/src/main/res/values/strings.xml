@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Contextual Action Mode</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+
+    <string name="optionsMenu">"&#8942;"</string>
+
+    <string-array name="movie_titles">
+        <item>12 Angry Men</item>
+        <item>Inception</item>
+        <item>Pulp Fiction</item>
+        <item>"Schindler's List"</item>
+        <item>The Dark Night</item>
+        <item>The Godfather</item>
+        <item>The Godfather: Part II</item>
+        <item>The Good, the Bad and the Ugly</item>
+        <item>The Lord of the Rings</item>
+        <item>The Shawshank Redemption</item>
+    </string-array>
+
+    <string-array name="movie_ratings">
+        <item>Rating: 7.4/10</item>
+        <item>Rating: 9.4/10</item>
+        <item>Rating: 4.4/10</item>
+        <item>Rating: 7.9/10</item>
+        <item>Rating: 7.8/10</item>
+        <item>Rating: 6.4/10</item>
+        <item>Rating: 9.4/10</item>
+        <item>Rating: 5.4/10</item>
+        <item>Rating: 5.4/10</item>
+        <item>Rating: 9.4/10</item>
+    </string-array>
+
+    <string-array name="versions">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+    </string-array>
+</resources>
