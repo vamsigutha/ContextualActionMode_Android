@@ -1,17 +1,29 @@
 <resources>
-    <string name="app_name">Contextual Action Mode</string>
+    <string name="app_name">Rememb</string>
     <string name="delete">Delete</string>
-    <string name="share">Share</string>
+    <string name="completed">Mark as Completed</string>
+    <string name="pin">Pin to Notification Bar</string>
+    <string name="unpin">Unpin</string>
+    <string name="unmark">Unmark</string>
 
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="TASK_LIST">APP_TASK_LIST</string>
+    <string name="COMPLETED_LIST_FILE">APP_COMPLETED_LIST</string>
+    <string name="COMPLETED_LIST">APP_COMPLETED_LIST</string>
+    <string name="PINNED_LIST_FILE">APP_PINNED_LIST</string>
+    <string name="PINNED_LIST">APP_PINNED_LIST</string>
+
+    <string name="dashLine">&#11834;</string>
     <string name="optionsMenu">"&#8942;"</string>
+    <string name="circle">&#9679;</string>
 
     <string-array name="movie_titles">
-        <item>12 Angry Men</item>
-        <item>Inception</item>
-        <item>Pulp Fiction</item>
-        <item>"Schindler's List"</item>
-        <item>The Dark Night</item>
-        <item>The Godfather</item>
+        <item>"         12 Angry Men"</item>
+        <item>"         Inception"</item>
+        <item>"         Pulp Fiction"</item>
+        <item>"         Schindler's List"</item>
+        <item>"         The Dark Night"</item>
+        <item>"         The Godfather"</item>
         <item>The Godfather: Part II</item>
         <item>The Good, the Bad and the Ugly</item>
         <item>The Lord of the Rings</item>
